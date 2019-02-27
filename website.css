@@ -4,7 +4,7 @@ body {
     /*background-color: black;*/
     /*color: rgb(225, 225, 225);*/
     background-color: aliceblue;
-    width: 70%;
+    width: 85%;
     margin: auto;
     font-family: "Times New Roman", serif;
     /*display: inline-block;*/
@@ -30,9 +30,15 @@ img {
     padding: 10px;
 }
 
+#Profile img {
+    width: 200px;
+    max-width: 20%;
+}
+
+
 /*Styling for links*/
 a {
-    color: aquamarine;
+    /*color: aquamarine;*/
 }
 
 /*Link color upon hover*/
