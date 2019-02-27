@@ -1,0 +1,42 @@
+/*Some default styling for body elements*/
+body {
+
+    /*background-color: black;*/
+    /*color: rgb(225, 225, 225);*/
+    background-color: aliceblue;
+    width: 70%;
+    margin: auto;
+    font-family: "Times New Roman", serif;
+    /*display: inline-block;*/
+}
+
+/*Styling for first order header*/
+h1 {
+    text-decoration: underline;
+}
+
+/*General Styling for headers*/
+h1, h2 {
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Styling for images*/
+img {
+    max-width: 80%;
+    display: block;
+    position: relative;
+    margin: auto;
+    padding: 10px;
+}
+
+/*Styling for links*/
+a {
+    color: aquamarine;
+}
+
+/*Link color upon hover*/
+a:hover {
+    color: coral;
+}
+
