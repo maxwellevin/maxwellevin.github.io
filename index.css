@@ -10,12 +10,15 @@ h1, h2 {
     font-weight: lighter;
 }
 
+/* Styling for images*/
 img {
     display: block;
     width: fit-content;
     position: relative;
     margin: auto;
 }
+
+
 
 /*Styling for links*/
 a {
