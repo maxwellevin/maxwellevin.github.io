@@ -20,19 +20,25 @@
 
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="">
-	<title>Home – Maxwell</title>
-	<meta name="description" content="Maxwell Shannon Levin's personal and professional website.">
+	<title>Sorting Hat – Maxwell</title>
+	<meta name="description" content="<p><img src="/images/projects/sortinghat/sortinghat_gui.png" alt="" /></p>
+
+">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Home – Maxwell">
-	<meta name="twitter:description" content="Maxwell Shannon Levin's personal and professional website.">
-	<meta name="twitter:image:src" content="/images/photos/or_mountain_1.jpg">
+	<meta name="twitter:title" content="Sorting Hat – Maxwell">
+	<meta name="twitter:description" content="<p><img src="/images/projects/sortinghat/sortinghat_gui.png" alt="" /></p>
+
+">
+	<meta name="twitter:image:src" content="/images/projects/sortinghat/sortinghat_gui.png">
 
 	<!-- Facebook OpenGraph -->
-	<meta property="og:title" content="Home – Maxwell" />
-	<meta property="og:description" content="Maxwell Shannon Levin's personal and professional website." />
-	<meta property="og:image" content="/images/photos/or_mountain_1.jpg" />
+	<meta property="og:title" content="Sorting Hat – Maxwell" />
+	<meta property="og:description" content="<p><img src="/images/projects/sortinghat/sortinghat_gui.png" alt="" /></p>
+
+" />
+	<meta property="og:image" content="/images/projects/sortinghat/sortinghat_gui.png" />
 
 	
 	<!-- Font Embed Code -->
@@ -66,12 +72,12 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="" data-page-url="/blog/">
+<body class="loading ajax-loading" data-site-url="" data-page-url="/project/sortinghat-project">
 
 
 	<header class="header">
 
-	<div class="header-image header-image--on" style="background-image: url(/images/photos/or_mountain_1.jpg);"></div>
+	<div class="header-image header-image--on" style="background-image: url(/images/projects/sortinghat/sortinghat_gui.png);"></div>
 	<div class="header-image"></div>
 
 	<div class="header-overlay"></div>
@@ -200,39 +206,58 @@
 	
 	<div class="page">
 
-		<div class="page__content" data-page-title="Home – Maxwell" data-image="/images/photos/or_mountain_1.jpg">
+		<div class="page__content" data-page-title="Sorting Hat – Maxwell" data-image="/images/projects/sortinghat/sortinghat_gui.png">
 
-			<section class="blog single">
+			<section class="intro">
 
-    <div class="wrap">
+	<div class="wrap">
 
-        
+		<h1>Sorting Hat</h1>
+		<p>An automated course allocation program for Lewis & Clark College</p>
 
-        <article class="blog-post">
-
-            <div class="blog-post__header">
-                <h2 class="blog-post__title"><a href="/blog/zafar-visits-pdx">Zafar Visits Portland</a></h2>
-                <p class="blog-post__subtitle">17 May 2019</p>
-            </div>
-
-            
-            <a href="/blog/zafar-visits-pdx" class="blog-post__image" style="background-image: url(/images/photos/friends_1.jpg);"></a>
-            
-
-            <div class="blog-post__content">
-                <p>Zafar and Elizabeth spend a weekend in Portland, OR.</p>
-                <p><a href="/blog/zafar-visits-pdx" class="button">Read More</a>
-            </div>
-
-        </article>
-
-        
-
-    </div>
+	</div>
 
 </section>
 
+<section class="single">
 
+	<div class="wrap">
+
+		<p><img src="/images/projects/sortinghat/sortinghat_gui.png" alt="" /></p>
+
+<h2 id="sortinghat-10">SortingHat 1.0</h2>
+
+<p>A version of this program was constructed in Spring 2018 by Lars Mayrand, Nick Tan, Mack Beveridge, Sam Peers, James Tostado, and I in a Software Development class at Lewis &amp; Clark College. The application was built in Java and would allocate freshmen into their Exploration &amp; Discovery (E&amp;D) courses based on the following factors:</p>
+<ul>
+  <li>Students must get one of their top three or four choices</li>
+  <li>No class should have more students than the class can fit</li>
+  <li>No student can take a course with a professor they have already had</li>
+  <li>Gender ratios should be somewhat balanced in each class</li>
+  <li>Athlete ratios should be somewhat balanced in each class</li>
+</ul>
+
+<p>The thresholds for some factors (top choices, gender ratios, athlete ratios) were determined after meetings with the client. Other factors, such as the maximum class size for a given course, were provided in a csv file as inputs to the program. In addition, the program also had to account for students who had already been allocated a course manually (Our client wanted the ability to manually place certain students before the program ran) and the program needed to account for students who listed course preferences with a previous professor.</p>
+
+<p>The product delivered to Lewis &amp; Clark College upon the end of the Spring 2018 term was able to allocate 500+ students to E&amp;D sections in less than a tenth of a second while satisfying all of the above requirements. Previously this task took our client over a week to complete and it needed to be done every semester. This version of SortingHat has been used for two semesters so far and counting.</p>
+
+<p>See the <a href="https://github.com/maxwellevin/sofdev-eandd">github repo</a> for SortingHat 1.0.</p>
+
+<p><img src="/images/projects/sortinghat/old_sortinghat_gui.png" alt="" /></p>
+
+<h2 id="sortinghat-20">SortingHat 2.0</h2>
+
+<p>This version is in the process of being constructed by myself and Lars Mayrand. The primary goal with SortingHat 2.0 is to increase the flexibility of the program so that it can be used by other academic institutions in need of allocation tools where student preference must be taken into account.</p>
+
+<p>To make this more accessible, I rewrote the project in Javascript (fixing some bugs along the way), and redesigned the user interface. Sliders were added to improve flexibility of existing parameters. The program runs in approximately five seconds, several times longer than the Java version, but acceptably so. Reporting statistics about the allocations to the GUI has not yet been implemented.</p>
+
+<p>See the <a href="https://github.com/1800Blarbo/SortingHat.org">github repo</a> for SortingHat 2.0.</p>
+
+<p><img src="/images/projects/sortinghat/sortinghat_demo.mov" alt="" /></p>
+
+
+	</div>
+
+</section>
 
 		</div>
 
