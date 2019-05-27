@@ -17,9 +17,9 @@ menu_settings:
     - title: 'Projects'
       url: '/projects/'
     - title: 'Photos'
-      url: '/photos/'
+      url: '/photos'
     - title: 'Blog'
-      url: '/blog'
+      url: '/blog/'
     - title: 'Contact'
       url: '/contact'
 
