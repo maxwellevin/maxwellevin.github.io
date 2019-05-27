@@ -8,7 +8,7 @@ featured_image: '/images/photos/sidebar_lightpaint_1.jpg'
 ### Night
 These are some photos I've taken after sunset. I love taking long exposure shots. Some of these are shot over a period of several hours. Others, just a few seconds. 
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
     <img src="/images/photos/astro_beach.jpg">
     <img src="/images/photos/astro_stars_1.jpg">
     <img src="/images/photos/astro_stars_2.jpg">
@@ -25,7 +25,7 @@ These are some photos I've taken after sunset. I love taking long exposure shots
 ### Mountains, Waterfalls, and More
 These are some of the landscape photos I've taken while on hikes, road trips, or travel abroad. Recognize any places? Let me know!
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
     <img src="/images/photos/house_fog.jpg">
     <img src="/images/photos/isl_waterfall_1.jpg">
     <img src="/images/photos/isl_waterfall_2.jpg">
