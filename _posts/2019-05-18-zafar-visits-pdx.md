@@ -23,4 +23,4 @@ visit me in Portland, OR.
  
 Activities included: Seeing Multnomah Falls and hiking around Latourell Falls, taking many, many photos, seeing behind 
 the scenes of <a href="https://twitter.com/exoPaperBot">@exoPaperBot</a>, going climbing at planet granite, getting 
-donuts from Voodoo Donuts, explore Powell's, and eating lots of really good food.
+donuts from Voodoo Donuts, exploring Powell's, and eating lots of really good food.
