@@ -1,10 +1,10 @@
 ---
 title: 'Sky'
 subtitle: 'All-sky image segmentation with a convolutional neural network'
-featured_image: '/images/photos/cloud.jpg'
+featured_image: '/images/projects/sky/cloud.jpg'
 ---
 
-This was a three-semester (one full year) project involving a peer of mine (Zoe Harrington) and three advisors (Peter
+This was a three-semester (one full year) project involving a peer of mine (Zoe Harrington) and three advisers (Peter
 Drake, Jessica Kleiss, and Erin Riley) that culminated in a <a href="https://github.com/PeterDrake/sky">project on
 github</a> and a [senior honors thesis](/images/projects/sky/thesis.pdf) for Zoe and I.
 
@@ -21,7 +21,7 @@ instrument, the **total sky imager (TSI)**, is relatively cheap and is widely us
 
 ![](/images/projects/sky/data.png)
 
-We use over one hundred thousand images from the TSI. Previous research by one of our advisors (Erin Riley) allows us
+We use over one hundred thousand images from the TSI. Previous research by one of our advisers (Erin Riley) allows us
 to split this data into two parts: typical data and dubious data. Simply put, typical data are TSI sky/decision image 
 pairs for which the TSI's segmentation matches the sky image, and dubious data is the opposite (It's more nuanced than this of 
 course).
