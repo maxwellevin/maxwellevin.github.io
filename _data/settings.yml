@@ -10,10 +10,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-#    - title: 'Latest'
-#      url: '/'
-#    - title: 'About'
-#      url: '/about/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Photos'
@@ -22,7 +18,6 @@ menu_settings:
       url: '/blog/'
     - title: 'Contact'
       url: '/contact'
-
 
 grid_settings:
   grid_spacing: 10
