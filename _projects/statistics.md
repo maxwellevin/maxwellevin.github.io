@@ -3,14 +3,21 @@ layout:
 title: 'Statistics'
 subtitle: 'Learning to formalize statistics with R Markdown and LaTeX'
 featured_image: '/images/projects/statistics/math_test.png'
-published: false
+published: true
 ---
 
 ![](/images/projects/statistics/math_test.png)
 
+### About
+
+I learned how to use <a href="https://www.r-project.org">R</a>, <a href="https://rmarkdown.rstudio.com">R Markdown</a>, 
+and <a href="https://www.latex-project.org">LaTeX</a> so that I could make my statistics homework and tests look better.
+See my work on <a href="https://github.com/maxwellevin/Probability-and-Statistics">github</a>.
+
+
 ### Motivation
 
-I am someone who always does their best to prepare. When I took Math 490 my junior year of college I had no prior
+I always do my best to prepare for challenging tasks. When I took Math 490 my junior year of college I had no prior
 experience with statistics. Yung-Pin Chen allowed me to take his course because he knew that I had programming and 
 mathematical experience/skills and that I ask useful questions in class. He is also a very kind person who works hard to
 see his students succeed. 
