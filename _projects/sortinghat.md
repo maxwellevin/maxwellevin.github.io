@@ -20,7 +20,7 @@ The thresholds for some factors (top choices, gender ratios, athlete ratios) wer
 
 The product delivered to Lewis & Clark College upon the end of the Spring 2018 term was able to allocate 500+ students to E&D sections in less than a tenth of a second while satisfying all of the above requirements. Previously this task took our client over a week to complete and it needed to be done every semester. This version of SortingHat has been used for two semesters so far and counting.
 
-See the <a href="https://github.com/maxwellevin/sofdev-eandd">github repo</a> for SortingHat 1.0.
+See the <a href="https://github.com/maxwellevin/sofdev-eandd-sortinghat">github repo</a> for SortingHat 1.0.
 
 ![](/images/projects/sortinghat/old_sortinghat_gui.png)
 
