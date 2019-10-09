@@ -6,7 +6,7 @@ featured_image: '/images/projects/sky/cloud.jpg'
 
 This was a three-semester (one full year) project involving a peer of mine (Zoe Harrington) and three advisers (Peter
 Drake, Jessica Kleiss, and Erin Riley) that culminated in a <a href="https://github.com/PeterDrake/sky">project on
-github</a> and a [senior honors thesis](/images/projects/sky/thesis.pdf) for Zoe and I.
+github</a> and a [senior honors thesis](/images/projects/sky/thesis.pdf) (open in new tab).
 
 ## About
 Clouds are pretty, interesting, and play an important role in our global climate system. In addition, clouds are the 

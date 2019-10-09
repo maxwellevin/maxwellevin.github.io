@@ -2,12 +2,14 @@
 title: 'Sorting Hat'
 subtitle: 'An automated course allocation program for Lewis & Clark College'
 featured_image: '/images/projects/sortinghat/sortinghat_gui.png'
+layout: page
 ---
 
+## SortingHat 1.0 !
 
-![](/images/projects/sortinghat/sortinghat_gui.png)
 
-## SortingHat 1.0
+![](/images/projects/sortinghat/old_sortinghat_gui.png)
+
 
 A version of this program was constructed in Spring 2018 by Lars Mayrand, Nick Tan, Mack Beveridge, Sam Peers, James Tostado, and I in a Software Development class at Lewis & Clark College. The application was built in Java and would allocate freshmen into their Exploration & Discovery (E&D) courses based on the following factors:
 * Students must get one of their top three or four choices
@@ -22,15 +24,17 @@ The product delivered to Lewis & Clark College upon the end of the Spring 2018 t
 
 See the <a href="https://github.com/maxwellevin/sofdev-eandd-sortinghat">github repo</a> for SortingHat 1.0.
 
-![](/images/projects/sortinghat/old_sortinghat_gui.png)
+
 
 ## SortingHat 2.0 
 
-This version is in the process of being constructed by myself and Lars Mayrand. The primary goal with SortingHat 2.0 is to increase the flexibility of the program so that it can be used by other academic institutions in need of allocation tools where student preference must be taken into account. 
+![](/images/projects/sortinghat/sortinghat_gui.png)
 
-To make this more accessible, I rewrote the project in Javascript (fixing some bugs along the way), and redesigned the user interface. Sliders were added to improve flexibility of existing parameters. The program runs in approximately five seconds, several times longer than the Java version, but acceptably so. Reporting statistics about the allocations to the GUI has not yet been implemented.
+This version is in the process of being constructed by myself and SortingHat 1.0 teammate Lars Mayrand. The primary goal with SortingHat 2.0 is to increase the flexibility of the program so that it can be used by other academic institutions in need of allocation tools where student preference must be taken into account. 
 
-See the <a href="https://github.com/1800Blarbo/SortingHat.org">github repo</a> for SortingHat 2.0.
+To make this more accessible, I rewrote the project in Javascript (fixing some bugs along the way), and redesigned the user interface. Sliders were added to improve flexibility of existing parameters. The program runs in approximately five seconds (varies with user's computer specs), which is several times longer than the Java version, but still acceptable. 
+
+Visit the <a href="https://github.com/1800Blarbo/SortingHat.org">github repo</a> for the new SortingHat to see more detailed documentation, tasks left to do, or submit a pull request.
 
 
 ![](/images/projects/sortinghat/sortinghat_demo.mov)
