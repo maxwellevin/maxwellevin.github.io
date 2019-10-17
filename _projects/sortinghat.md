@@ -5,7 +5,7 @@ featured_image: '/images/projects/sortinghat/sortinghat_gui.png'
 layout: page
 ---
 
-## SortingHat 1.0 !
+## SortingHat 1.0
 
 
 ![](/images/projects/sortinghat/old_sortinghat_gui.png)
