@@ -32,9 +32,23 @@ See the <a href="https://github.com/maxwellevin/sofdev-eandd-sortinghat">github 
 
 This version is in the process of being constructed by myself and SortingHat 1.0 teammate Lars Mayrand. The primary goal with SortingHat 2.0 is to increase the flexibility of the program so that it can be used by other academic institutions in need of allocation tools where student preference must be taken into account. 
 
-To make this more accessible, I rewrote the project in Javascript (fixing some bugs along the way), and redesigned the user interface. Sliders were added to improve flexibility of existing parameters. The program runs in approximately five seconds (varies with user's computer specs), which is several times longer than the Java version, but still acceptable. 
+To make this more accessible, I rewrote the project in Javascript (fixing some bugs along the way), and redesigned the user interface. Sliders were added to improve flexibility of existing parameters. The program runs in just a few seconds (varies with the user's computer specs).
 
-Visit the <a href="https://github.com/1800Blarbo/SortingHat.org">github repo</a> for the new SortingHat to see more detailed documentation, tasks left to do, or submit a pull request.
+Additionally, I added several charts and more responsive feedback about the section and student data in order to give the user a better understanding of their data. For instance, see the <strong>Section Popularity</strong> chart:
+
+![](/images/projects/sortinghat/popularity_chart.png)
+
+Also notice the new <strong>Allocations</strong>, <strong>Gender Composition</strong>, and <strong>Athlete Balance</strong> charts which display the program's results after the user clicks the 'run' button.
+
+![](/images/projects/sortinghat/allocation_chart.png)
+
+![](/images/projects/sortinghat/gender_chart.png)
+
+![](/images/projects/sortinghat/athlete_chart.png)
 
 
-![](/images/projects/sortinghat/sortinghat_demo.mov)
+Visit the <a href="https://github.com/1800Blarbo/SortingHat.org">github repo</a> for the new SortingHat to read the documentation, browse the source code, or submit a pull request. 
+
+You can also visit <a href="http://www.sortinghat.org">www.sortinghat.org</a> to see SortingHat live!
+
+
