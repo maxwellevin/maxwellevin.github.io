@@ -5,6 +5,12 @@ featured_image: '/images/projects/sortinghat/sortinghat_gui.png'
 layout: page
 ---
 
+SortingHat is a program designed to eliminate headaches and save time when assigning students to classes. 
+
+There are two versions of SortingHat: 
+- SortingHat 1.0 - the original, delivered as a .JAR app ([github repo](https://github.com/maxwellevin/sofdev-eandd-sortinghat))
+- [SortingHat.org](http://www.SortingHat.org) - a refresh, delivered as a webapp ([github repo](https://github.com/1800Blarbo/SortingHat.org))
+
 ## SortingHat 1.0
 
 
@@ -13,20 +19,20 @@ layout: page
 
 A version of this program was constructed in Spring 2018 by Lars Mayrand, Nick Tan, Mack Beveridge, Sam Peers, James Tostado, and I in a Software Development class at Lewis & Clark College. The application was built in Java and would allocate freshmen into their Exploration & Discovery (E&D) courses based on the following factors:
 * Students must get one of their top three or four choices
-* No class should have more students than the class can fit
-* No student can take a course with a professor they have already had
+* No class should have more students than a specified limit
+* No student can take a course with a professor they've already had
 * Gender ratios should be somewhat balanced in each class
 * Athlete ratios should be somewhat balanced in each class
 
-The thresholds for some factors (top choices, gender ratios, athlete ratios) were determined after meetings with the client. Other factors, such as the maximum class size for a given course, were provided in a csv file as inputs to the program. In addition, the program also had to account for students who had already been allocated a course manually (Our client wanted the ability to manually place certain students before the program ran) and the program needed to account for students who listed course preferences with a previous professor. 
+The thresholds for some factors (top choices, gender ratios, athlete ratios) were determined after meetings with the client. Other factors, such as the maximum class size for a given course, were provided in a csv file as inputs to the program. In addition, the program also had to account for students who had already been allocated a course manually and account for students who listed illegal course preferences.
 
-The product delivered to Lewis & Clark College upon the end of the Spring 2018 term was able to allocate 500+ students to E&D sections in less than a tenth of a second while satisfying all of the above requirements. Previously this task took our client over a week to complete and it needed to be done every semester. This version of SortingHat has been used for two semesters so far and counting.
+The product delivered to Lewis & Clark College upon the end of the Spring 2018 term was able to allocate 500+ students to E&D sections in less than a tenth of a second while satisfying all of the above requirements. Previously this task took our client over a week to complete each semester. This version of SortingHat has been used every semester since Spring 2018.
 
 See the <a href="https://github.com/maxwellevin/sofdev-eandd-sortinghat">github repo</a> for SortingHat 1.0.
 
 
 
-## SortingHat 2.0 
+## SortingHat.org
 
 ![](/images/projects/sortinghat/sortinghat_gui.png)
 
