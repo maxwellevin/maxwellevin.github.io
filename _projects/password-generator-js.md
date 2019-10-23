@@ -18,4 +18,3 @@ In the above versions, you have the following pattern: lowercase, uppercase, num
 
 
 **Coming soon: live demo**
-<!-- {%- include /demos/password-generator-js/index.html -%} -->
