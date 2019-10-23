@@ -4,17 +4,14 @@ subtitle: 'A binary classification competition on Kaggle'
 featured_image: '/images/projects/aerial-cactus-identification/cacti-grid.png'
 ---
 
-<p>This is a copy of the kernel I submitted to the <a href="https://www.kaggle.com/c/aerial-cactus-identification">Aerial 
-Cactus Identification</a> competition on Kaggle. I made a simple convolutional neural network with keras and trained it 
-on a subset of the available data. The main breakthrough for me was creating a training set with an equal number of 
-images of each class. </p>
+This is a copy of the kernel I submitted to the  competition on Kaggle. I made a small convolutional neural network using the keras Sequential API with a Tensorflow backend. I split the available data into training and validation sets and ensured that the classes were balanced in each set (50% cactus, 50% no cactus). I learned about Keras callbacks by using the ModelCheckpoint, EarlyStopping, and ReduceLROnPlatteau callback functions. My network scored 0.9991/1.0 which put me in the top 50% of participants (613th / 1228). 
 
-Without further ado, here is my work!
+You can see my work below!
 
 
 ## Step 1: Examine the data
 
-The first step in any data science project is to get an understanding of what you are working with. In this step, I declare my imports and paths to important locations on disk, load some data into memory, and examine it more closely.
+The first step in any data science project is to get an understanding of what you are working with. In this step I declare my imports and paths to important locations on disk, load some data into memory, and examine it more closely.
 
 
 ```python
