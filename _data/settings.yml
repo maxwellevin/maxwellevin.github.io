@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Maxwell
   site_tagline: Software developer and machine learning enthusiast
-  favicon_image:
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image:
@@ -12,12 +12,15 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Photos'
-      url: '/photos'
+    # - title: 'Photos'
+    #   url: '/photos/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Resume'
+      url: '/resume'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
+
 
 grid_settings:
   grid_spacing: 10
