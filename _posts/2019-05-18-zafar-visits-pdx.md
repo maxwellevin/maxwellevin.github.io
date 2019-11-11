@@ -2,25 +2,19 @@
 title: 'Zafar Visits Portland'
 date: 2019-05-18 00:00:00
 featured_image: '/images/photos/friends_1.jpg'
-excerpt: Zafar and Elizabeth spend a weekend in Portland, OR.
+excerpt: Zafar spends a weekend in Portland, OR.
 ---
 
 <div class="gallery" data-columns="1">
     <img src="/images/photos/friends_1.jpg">
-    <img src="/images/photos/zafar_elizabeth_1.jpg">
-    <img src="/images/photos/zafar_2.jpg">   
     <img src="/images/photos/zafar_1.jpg">
+    <img src="/images/photos/zafar_2.jpg">   
     <img src="/images/photos/or_waterfall_2.jpg">
     <img src="/images/photos/or_waterfall_1.jpg">     
     <img src="/images/photos/zafar_3.jpg">             
     <img src="/images/photos/zafar_elizabeth_2.jpg">       
 </div>
 
-Zafar is one of my oldest and closest friends. We've been organizing star gazing trips, hiking, and hanging out since 
-our early high school days. For the past four years we've only been able to see each other when our vacation periods
-aligned (which was far too infrequently). This weekend, Zafar and Elizabeth took a Friday off of classes and came to
-visit me in Portland, OR. 
- 
-Activities included: Seeing Multnomah Falls and hiking around Latourell Falls, taking many, many photos, seeing behind 
-the scenes of <a href="https://twitter.com/exoPaperBot">@exoPaperBot</a>, going climbing at planet granite, getting 
-donuts from Voodoo Donuts, exploring Powell's, and eating lots of really good food.
+Zafar is one of my oldest and closest friends. We've been organizing star gazing trips, hiking, and hanging out since our early high school days. For the past four years we've only been able to see each other when our vacation periods aligned (which was far too infrequently). This weekend, Zafar and his girlfriend Elizabeth took a day off and came to visit me in Portland, OR.
+
+Activities included exploring downtown Portland, touring Lewis & Clark College, hiking around Multnomah and Latourell Falls, going bouldering and climbing at [Planet Granite](https://planetgranite.com/pdx/), eating [Voodoo Donuts](https://www.voodoodoughnut.com/), buying Machine Learning and Physics books from [Powell's](https://www.powells.com/), seeing behind the scenes of Zafar's [twitter bot](https://twitter.com/exoPaperBot), cooking really yummy food, playing with my cat Lando, and much more! 
