@@ -13,7 +13,7 @@ On this trip I invited my friends Shelby and Jeff, as well as my girlfriend Alli
 
 Jeff was extremely entertained with the laser pointer he brought and with it we were able to point to stars and planets with extreme precision. 
 
-Pictured below are scenes from the drive to cottonwood canyon.
+Pictured below are scenes from the drive there.
 
 <div class="gallery" data-columns="3">
     <img src="/images/photos/DSC08093.jpg">
