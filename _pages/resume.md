@@ -1,6 +1,6 @@
 ---
 title: 'Maxwell Shannon Levin'
-featured_image: '/images/photos/DSC08003.jpg'
+featured_image: '/images/photos/resume_sidebar.jpg'
 layout: page
 ---
 
