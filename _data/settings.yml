@@ -19,7 +19,7 @@ menu_settings:
     - title: 'Resume'
       url: '/resume'
     - title: 'Contact'
-      url: '/contact/'
+      url: '/contact'
 
 
 grid_settings:
