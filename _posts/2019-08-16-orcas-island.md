@@ -12,7 +12,7 @@ Below are some of the pictures I took during our time on the island.
 <div class='gallery' data-columns='3'>
     <img src='/images/blog/2019-08-16_orcas_island/DSC06423.jpg'>
     <img src='/images/blog/2019-08-16_orcas_island/DSC06457.jpg'>
-    <img src='/images/blog/2019-08-16_orcas_island/DSC06476.jpg'>
+    <img src='/images/blog/2019-08-16_orcas_island/DSC06396.jpg'>
     <img src='/images/blog/2019-08-16_orcas_island/DSC06488.jpg'>
     <img src='/images/blog/2019-08-16_orcas_island/DSC06631.jpg'>
     <img src='/images/blog/2019-08-16_orcas_island/DSC06635.jpg'>
