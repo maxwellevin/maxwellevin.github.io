@@ -60,6 +60,7 @@ A brief recap of my professional experience.
 - Partnered with 5 students to build a Java program that accounts for student preferences, class sizes, gender balance, etc.
 - Designed algorithm to calculate cost of putting a student in a class then used the Hungarian Algorithm to make assignments.
 - Delivered .JAR application that runs in less than 0.1s and places 100% of ~600 students into one of their top 3 choices.
+- Currently finalizing [SortingHat.org](http://www.sortinghat.org), my response to upcoming freshman seminar changes in 2020. 
 - For more information see: [maxwellshannonlevin.com/projects/sortinghat](/projects/sortinghat).
 
 
