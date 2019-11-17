@@ -1,11 +1,11 @@
 ---
 title: 'Camping in Cottonwood Canyon'
 date: 2019-10-25 00:00:00
-featured_image: '/images/photos/DSC08066.jpg'
+featured_image: '/images/blog/2019-10-24_cottonwood_canyon/DSC08066.jpg'
 excerpt: Camping and stargazing with friends in eastern Oregon.
 ---
 
-{% include image.html url="/images/photos/DSC07994.jpg" description="Three 15-second shots of part of the milky way stacked together using photoshop to reduce noise. Edited for color and noise reduction." %}
+{% include image.html url="/images/blog/2019-10-24_cottonwood_canyon/DSC07994.jpg" description="Three 15-second shots of part of the milky way stacked together using photoshop to reduce noise. Edited for color and noise reduction." %}
 
 Cottonwood Canyon is about a 3-hour drive from Portland, OR. Located deep in the Columbia River Gorge in Eastern Oregon, this isolated site is ideal for hiking, rafting, fishing, and many other activities. I chose this site because of its lack of proximity to any major cities and other sources of light pollution, making it an ideal spot to go stargazing in the days surrounding a new moon.
 
@@ -16,20 +16,20 @@ Jeff was extremely entertained with the laser pointer he brought and with it we 
 Pictured below are scenes from the drive there.
 
 <div class="gallery" data-columns="3">
-    <img src="/images/photos/DSC08093.jpg">
-    <img src="/images/photos/DSC08097.jpg">
-    <img src="/images/photos/DSC08107.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC08093.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC08097.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC08107.jpg">
 </div>
 
 ... And pictured below this are scenes from Cottonwood Canyon.
 
-{% include image.html url="/images/photos/DSC08014.jpg" description="A group of Bighorn sheep ewes passes by camp in the morning." %}
+{% include image.html url="/images/blog/2019-10-24_cottonwood_canyon/DSC08014.jpg" description="A group of Bighorn sheep ewes passes by camp in the morning." %}
 
 <div class="gallery" data-columns="3">
-    <img src="/images/photos/DSC08005.jpg">
-    <img src="/images/photos/DSC07999.jpg">
-    <img src="/images/photos/DSC08003.jpg">
-    <img src="/images/photos/DSC08074.jpg">
-    <img src="/images/photos/DSC08075.jpg">
-    <img src="/images/photos/DSC08001.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC08005.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC07999.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC08003.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC08074.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC08075.jpg">
+    <img src="/images/blog/2019-10-24_cottonwood_canyon/DSC08001.jpg">
 <div>
