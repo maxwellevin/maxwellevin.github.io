@@ -1,6 +1,6 @@
 ---
 title: Mushroom Foraging in Tryon Creek
-featured_image: /images/blog/2019-11-07_tryon_creek_mushrooms/DSC08171.jpg
+featured_image: /images/blog/2019-11-07_tryon_creek_mushrooms/DSC08169.jpg
 excerpt: Looking for mushrooms in Tryon Creek
 ---
 
