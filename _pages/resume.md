@@ -29,7 +29,7 @@ A brief recap of my professional experience.
 - Designed algorithm to calculate cost of putting a student in a class then used the Hungarian Algorithm to make assignments.
 - Delivered .JAR application that runs in less than 0.1s and places 100% of ~600 students into one of their top 3 choices.
 - Currently hired as independent contractor to build [www.sortinghat.org](http://www.sortinghat.org) for 2020 adjustments to the freshman seminar series.
-- For more information see: [maxwellshannonlevin.com/projects/sortinghat](/projects/sortinghat).
+- For more information see: [maxwelllevin.com/projects/sortinghat](/projects/sortinghat).
 
 
 #### Research Assistant: Machine Learning / Computer Vision
@@ -38,7 +38,7 @@ A brief recap of my professional experience.
 - Designed a segmentation accuracy metric using cloud coverage data from nearby scientific instruments.
 - Worked on team of 2 to automate data pipeline and deploy network to a CPU cluster computer at Lewis & Clark College.
 - Presented at CCSC NW 2018 (3rd place), Murdock College Science Research Conference 2018, Rogers Summer Research Lunch Presentations and Poster Presentations 2018, and Lewis & Clark College Mathematics Colloquium (2019).
-- For more information see: [maxwellshannonlevin.com/projects/sky](/projects/sky).
+- For more information see: [maxwelllevin.com/projects/sky](/projects/sky).
 
 
 #### Tutor: Math, CS, Physics                                               
