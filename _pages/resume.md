@@ -22,6 +22,16 @@ A brief recap of my professional experience.
 
 ### Experience 
 
+#### Software Developer: SortingHat                                                              
+**Lewis & Clark College**, *Jan 2018 - Present*
+- Agile software development school project for automating freshman seminar course assignments at Lewis & Clark College.
+- Partnered with 5 students to build a Java program that accounts for student preferences, class sizes, gender balance, etc.
+- Designed algorithm to calculate cost of putting a student in a class then used the Hungarian Algorithm to make assignments.
+- Delivered .JAR application that runs in less than 0.1s and places 100% of ~600 students into one of their top 3 choices.
+- Currently hired as independent contractor to build [www.sortinghat.org](http://www.sortinghat.org) for 2020 adjustments to the freshman seminar series.
+- For more information see: [maxwellshannonlevin.com/projects/sortinghat](/projects/sortinghat).
+
+
 #### Research Assistant: Machine Learning / Computer Vision
 **Lewis & Clark College**, *May 2018 - June 2019*
 - Developed Sky-ML: a neural network to improve semantic segmentations of sky images with Tensorflow in Python.
@@ -49,20 +59,6 @@ A brief recap of my professional experience.
 **Lewis & Clark College**, *Sep 2018 - Dec 2018*
 - Graded weekly homework assignments for ~16 students.
 - Recorded homework scores and reported common areas in weekly meetings with the professor.
-
-
-
-### Projects
-
-#### SortingHat                                                              
-**Lewis & Clark College**, *Jan 2018 - Present*
-- Agile software development school project for automating freshman seminar course assignments at Lewis & Clark College.
-- Partnered with 5 students to build a Java program that accounts for student preferences, class sizes, gender balance, etc.
-- Designed algorithm to calculate cost of putting a student in a class then used the Hungarian Algorithm to make assignments.
-- Delivered .JAR application that runs in less than 0.1s and places 100% of ~600 students into one of their top 3 choices.
-- Currently finalizing [SortingHat.org](http://www.sortinghat.org), my response to upcoming freshman seminar changes in 2020. 
-- For more information see: [maxwellshannonlevin.com/projects/sortinghat](/projects/sortinghat).
-
 
 
 ### Skills 
