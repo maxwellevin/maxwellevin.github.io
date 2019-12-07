@@ -9,62 +9,71 @@ A brief recap of my professional experience.
 
 
 ### Education
-**B.A. Computer Science and Mathematics with departmental honors** 
-*Lewis & Clark College* in Portland, OR (May 2019)
 
-**GPA**: 3.74, *Cum Laude*
+**Bachelor of Arts: Computer Science and Mathematics** from Lewis & Clark College in Portland, OR (May 2019)
 
-**Awards**: Pi Mu Epsilon, Dean’s List (x5)
+**Awards**: Departmental honors in Computer Science and Mathematics, Pi Mu Epsilon
 
-**Electives**: Networks & Web Development, Software Development, Machine Learning, Simulation-Based Stat. Methods, Computer Graphics, Computational Physics, Theoretical Dynamics, Abstract Algebra, Calculus IV, Game Theory
-
+**GPA**: 3.74 (*Cum Laude*)
 
 
 ### Experience 
 
-#### Software Developer: SortingHat                                                              
-**Lewis & Clark College**, *Jan 2018 - Present*
-- Agile software development school project for automating freshman seminar course assignments at Lewis & Clark College.
-- Partnered with 5 students to build a Java program that accounts for student preferences, class sizes, gender balance, etc.
-- Designed algorithm to calculate cost of putting a student in a class then used the Hungarian Algorithm to make assignments.
-- Delivered .JAR application that runs in less than 0.1s and places 100% of ~600 students into one of their top 3 choices.
-- Currently hired as independent contractor to build [www.sortinghat.org](http://www.sortinghat.org) for 2020 adjustments to the freshman seminar series.
-- For more information see: [maxwelllevin.com/projects/sortinghat](/projects/sortinghat).
+#### Software Development Engineer                                                                                                                   
+**Lewis & Clark College**, *Jan. 2018 - Present*
+- Designed and built applications for automating freshman seminar assignments, a task previously done by hand using Excel.
+- Delivered .JAR application in Spring 2018 that places all students into one of their top 3 choices, exceeding client’s goals.
+- Used Agile software development practices, leading to an increase in developer productivity and client satisfaction.
+- Currently working part-time to build [www.sortinghat.org](http://www.sortinghat.org) for 2020 adjustments to the freshman seminar series.
+- For more information see [maxwelllevin.com/projects/sortinghat](/projects/sortinghat).
 
 
-#### Research Assistant: Machine Learning / Computer Vision
+#### Undergraduate Research Assistant: Machine Learning / Computer Vision
 **Lewis & Clark College**, *May 2018 - June 2019*
-- Developed Sky-ML: a neural network to improve semantic segmentations of sky images with Tensorflow in Python.
-- Designed a segmentation accuracy metric using cloud coverage data from nearby scientific instruments.
-- Worked on team of 2 to automate data pipeline and deploy network to a CPU cluster computer at Lewis & Clark College.
-- Presented at CCSC NW 2018 (3rd place), Murdock College Science Research Conference 2018, Rogers Summer Research Lunch Presentations and Poster Presentations 2018, and Lewis & Clark College Mathematics Colloquium (2019).
-- For more information see: [maxwelllevin.com/projects/sky](/projects/sky).
+- Researched effectiveness of CNNs on the segmentation of cloudy sky images compared to standard thresholding algorithm.
+- Adapted Python codebase for cluster computer with over 140 CPUs, resulting in massive image-processing speedups.
+- Examined dataset of over 100k sky images and fractional sky covers (FSC) and split into training and validation sets.
+- Trained on 60k sky images, achieving 90% validation accuracy and more a accurate FSC than threshold approach.
+- Meticulously documented over 100 experiments and presented research at several PNW conferences.
+- Worked to familiarize future researchers with the codebase and project goals during Summer 2019.
+- For more information see [maxwelllevin.com/projects/sky](/projects/sky).
 
 
-#### Tutor: Math, CS, Physics                                               
-**Symbolic & Quantitative Resource Center (SQRC), Portland OR**, *Sep 2016 - May 2019*
-- Boosted productivity of dozens of students per day in all 100 and 200 level Math, CS, and Physics courses.
-- Taught positive psychology techniques (such as a growth mindset) to improve student self-efficacy.
-- Coordinated with other tutors and professors to discover and track common areas of struggle.
-
-
-#### Teaching Assistant: CS 383 - Algorithm Design & Analysis                           
-**Lewis & Clark College**, *Sep 2018 - Dec 2018*
-- Strengthened class flow by taking role, grading assignments, and answering students’ questions. 
-- Coached students individually and in groups during office hours to accommodate different learning needs.
-- Worked closely with the professor to assist struggling students and identify instances of academic dishonesty.
+#### Tutor: Math, CS, Physics
+**Symbolic & Quantitative Resource Center**, *Sep. 2016 - May 2019*
+- Taught positive psychology techniques and modelled good study habits, resulting in an increase of students’ self-efficacy.
+- Coordinated with professors and other tutors to track students’ progress through particularly challenging material.
 
 
 #### Homework Grader: PHYS 451 - Theoretical Dynamics
-**Lewis & Clark College**, *Sep 2018 - Dec 2018*
-- Graded weekly homework assignments for ~16 students.
+**Lewis & Clark College**, *Jan. 2019 - May 2019*
 - Recorded homework scores and reported common areas in weekly meetings with the professor.
+- Graded weekly homework assignments for ~16 students.
+
+
+#### Teaching Assistant: CS 383 - Algorithm Design & Analysis
+**Lewis & Clark College**, *Sep. 2018 - Dec. 2018*
+- Responsible for taking role and helping with homework, allowing the professor more time to focus on lectures and tests.
+- Worked closely with students during office hours, resulting in improved student comprehension and higher test scores.
+
+
+### Projects
+
+**Cactus Classifier**: Used Keras to identify cacti in photos. See [www.maxwelllevin.com/projects/aerial-cactus-identification](/projects/aerial-cactus-identification).
+
+**Desktop-setter**: A python script to change your desktop background. See [github.com/maxwellevin/desktop-setter](https://github.com/maxwellevin/desktop-setter).
+
+**Statistics**: Above & beyond work in statistics with RStudio. See [www.maxwelllevin.com/projects/statistics](/projects/statistics).
+
+**Website**: Used Jekyll and Github pages to construct this website. See [www.maxwelllevin.com](/).
 
 
 ### Skills 
 
-**Languages**: Java, Javascript, Python, C#,  HTML, CSS, SQL, PHP, R, Bash
+**Languages**: Java, Javascript, Python, C, HTML, SQL, PHP, R, MySQL
 
-**Technologies**: Jekyll, Django, Vue.js, Keras, MySQL, Windows, Mac, Linux, Git, Pivotal Tracker, VS Code
+**Frameworks**: Jekyll, Django, Vue.js, Keras/Tensorflow
 
-**Other**: Astrophotography, Soccer, Basketball, Sudoku
+**Other Tech**: Git, Pivotal Tracker, VS Code
+
+**Interests**: Astrophotography, Chess, Soccer
