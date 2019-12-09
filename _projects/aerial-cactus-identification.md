@@ -2,6 +2,8 @@
 title: 'Aerial Cactus Identification'
 subtitle: 'A binary classification competition on Kaggle'
 featured_image: '/images/projects/aerial-cactus-identification/cacti-grid.png'
+date: 2019-07-08
+layout: project
 ---
 
 This is a copy of the kernel I submitted to the  competition on Kaggle. I made a small convolutional neural network using the keras Sequential API with a Tensorflow backend. I split the available data into training and validation sets and ensured that the classes were balanced in each set (50% cactus, 50% no cactus). I learned about Keras callbacks by using the ModelCheckpoint, EarlyStopping, and ReduceLROnPlatteau callback functions. My network scored 0.9991/1.0 which put me in the top 50% of participants (613th / 1228). 

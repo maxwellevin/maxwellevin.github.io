@@ -2,7 +2,8 @@
 title: 'Sorting Hat'
 subtitle: 'An automated course allocation program for Lewis & Clark College'
 featured_image: '/images/projects/sortinghat/sortinghat_gui.png'
-layout: page
+date: 2019-12-9
+layout: project
 ---
 
 SortingHat is a program designed to eliminate headaches and save time when assigning students to classes. 
@@ -36,15 +37,16 @@ See the <a href="https://github.com/maxwellevin/sofdev-eandd-sortinghat">github 
 
 ![](/images/projects/sortinghat/sortinghat_gui.png)
 
-This version is in the process of being constructed by myself and SortingHat 1.0 teammate Lars Mayrand. The primary goal with SortingHat 2.0 is to increase the flexibility of the program so that it can be used by other academic institutions in need of allocation tools where student preference must be taken into account. 
 
-To make this more accessible, I rewrote the project in Javascript (fixing some bugs along the way), and redesigned the user interface. Sliders were added to improve flexibility of existing parameters. The program runs in just a few seconds (varies with the user's computer specs).
+The primary goal with SortingHat 2.0 is to increase the flexibility of the program and make up for some of the shortcomings of SortingHat 1.0 so that it can be used to greater effect by Lewis & Clark College and eventually other academic institutions.
 
-Additionally, I added several charts and more responsive feedback about the section and student data in order to give the user a better understanding of their data. For instance, see the <strong>Section Popularity</strong> chart:
+To make this more accessible, I rewrote the project in Javascript (fixing some bugs along the way), and completely redesigned the graphical user interface. I added sliders to improve flexibility of controlling existing parameters, documentation and more clear instructions about the program's input specifications, and made graphs to help the user digest some of the stats about their student population. 
+
+For example, the following chart is generated immediately after the user uploads the student csv file. It helps the user understand which sections are the most desirable to students:
 
 ![](/images/projects/sortinghat/popularity_chart.png)
 
-Also notice the new <strong>Allocations</strong>, <strong>Gender Composition</strong>, and <strong>Athlete Balance</strong> charts which display the program's results after the user clicks the 'run' button.
+I also created graphics for <strong>Allocations</strong>, <strong>Gender Composition</strong>, and <strong>Athlete Balance</strong> which are drawn after the program is run.
 
 ![](/images/projects/sortinghat/allocation_chart.png)
 
@@ -53,8 +55,8 @@ Also notice the new <strong>Allocations</strong>, <strong>Gender Composition</st
 ![](/images/projects/sortinghat/athlete_chart.png)
 
 
-Visit the <a href="https://github.com/1800Blarbo/SortingHat.org">github repo</a> for the new SortingHat to read the documentation, browse the source code, or submit a pull request. 
+Visit the [github repo]("https://github.com/1800Blarbo/SortingHat.org") for the new SortingHat to read the documentation, browse the source code, or submit a pull request. 
 
-You can also visit <a href="http://www.sortinghat.org">www.sortinghat.org</a> to see SortingHat live!
+You can also visit [www.sortinghat.com]("http://www.sortinghat.org") to see SortingHat live!
 
 

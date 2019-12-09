@@ -21,8 +21,9 @@ featured_image: /images/photos/sidebar_or_forest_1.jpg
 
 	<div class="wrap">
 
-<!--		reversed-->
-		{% for project in site.projects %}
+		<!-- Most recent first -->
+		{% assign projects = site.projects | sort: 'date' | reverse %}
+		{% for project in projects %}
 
 		<div class="portfolio-item">
 

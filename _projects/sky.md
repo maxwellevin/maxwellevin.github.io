@@ -2,6 +2,8 @@
 title: 'Sky'
 subtitle: 'All-sky image segmentation with a convolutional neural network'
 featured_image: '/images/projects/sky/cloud.jpg'
+date: 2019-06-01
+layout: project
 ---
 
 This was a three-semester (one full year) project involving a peer of mine (Zoe Harrington) and three advisers (Peter Drake, Jessica Kleiss, and Erin Riley).

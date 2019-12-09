@@ -1,9 +1,9 @@
 ---
-layout:
 title: 'Statistics'
 subtitle: 'Learning to formalize statistics with R Markdown and LaTeX'
 featured_image: '/images/projects/statistics/math_test.png'
-published: true
+date: 2018-12-08
+layout: project
 ---
 
 ![](/images/projects/statistics/math_test.png)
