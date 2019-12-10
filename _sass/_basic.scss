@@ -69,6 +69,7 @@ h2, .h2 {
 
 	a {
 		font-weight: $h2-weight;
+		color: $text-dark-color;
 	}
 }
 
@@ -198,7 +199,7 @@ blockquote {
 
 a {
 	text-decoration: none;
-	color: $text-dark-color;
+	color: $text-medium-color;
 	font-weight: $bold-weight;
 	@include transition(all 0.15s ease-in-out);
 
