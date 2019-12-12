@@ -23,15 +23,15 @@
 	.wrap {
 
 		@include mq(tabletl) {
-			max-width: 80%;
+			max-width: 95%;
 		}
 
 		@include mq(laptop) {
-			max-width: 75%;
+			max-width: 95%;
 		}
 
 		@include mq(desktop) {
-			max-width: 70%;
+			max-width: 90%;
 		}
 	}
 	

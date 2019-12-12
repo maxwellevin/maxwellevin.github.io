@@ -16,17 +16,17 @@
 	}
 
 	@include mq(tabletl) {
-		max-width: calc(80% + 80px);
+		max-width: 95%;
 	}
 
 	@include mq(laptop) {
 		margin: 40px auto;
-		max-width: calc(75% + 100px);
+		max-width: 95%;
 		padding: 50px;
 	}
 
 	@include mq(desktop) {
-		max-width: calc(70% + 120px);
+		max-width: 90%;
 		padding: 60px;
 	}
 
