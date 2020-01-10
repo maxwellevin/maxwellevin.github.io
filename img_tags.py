@@ -2,7 +2,13 @@
 This file generates a bunch of lines like:
 <img src='path/to/file.jpg'>
 
-This is really helpful when using the Jekyll Journal Gallery element, as you need an <img> tag for every image in the gallery.
+This is really helpful when using the Jekyll Journal Gallery element in blog posts, as you need an <img> tag for every image in the gallery.
+
+To use this, just run:
+python3 img_tags.py 'title_of_blog_post'
+
+Note that you should already have a folder in the /images/blog/ titled 'title_of_blog_post' and that this folder should contain all of the
+images you'd like to use in your gallery.
 """
 
 
