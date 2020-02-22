@@ -1,7 +1,7 @@
 ---
 title: Desert Activities (Day One)
 featured_image: /images/blog/2020-01-01_desert_day_one/N6C_3997.jpg
-excerpt: Launching rockets and other things in the desert
+excerpt: A strong start to the new year. 
 ---
 
 Launching rockets and mini roman candles in the desert.
