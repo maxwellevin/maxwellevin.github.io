@@ -1,6 +1,6 @@
 ---
 title: Desert Activities (Day One)
-featured_image: /images/blog/2020-01-01_desert_day_one/N6C_4098.jpg
+featured_image: /images/blog/2020-01-01_desert_day_one/N6C_3997.jpg
 excerpt: Launching rockets and other things in the desert
 ---
 
