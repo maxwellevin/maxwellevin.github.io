@@ -19,12 +19,19 @@ A brief recap of my professional experience.
 
 ### Experience 
 
+#### Software Engineer I
+**Pacific Northwest National Laboratories (PNNL) / Atmospheric Radiation Measurement (ARM)**, *April 2020 - Present*
+- Improved availability and quality of scientific data by developing aerosol data products through direct collaboration with ARM climate scientists while meeting rigorous ARM data quality standards.
+- Built or expanded various tools to manage ARM publication databases, ultimately contributing to a better understanding of how ARM climate data is used by the public.
+- Resolved issues relating to data and engineering workflows, answered user questions, and more as a ServiceNow Administrator.
+
+
 #### Software Development Engineer                                                                                                                   
-**Lewis & Clark College**, *Jan. 2018 - Present*
+**Lewis & Clark College**, *Jan. 2018 - April 2020*
 - Designed and built applications for automating freshman seminar assignments, a task previously done by hand using Excel.
 - Delivered .JAR application in Spring 2018 that places all students into one of their top 3 choices, exceeding client’s goals.
 - Used Agile software development practices, leading to an increase in developer productivity and client satisfaction.
-- Currently working part-time to build [www.sortinghat.org](http://www.sortinghat.org) for 2020 adjustments to the freshman seminar series.
+- Built [www.sortinghat.org](http://www.sortinghat.org) to increase functionality for 2020 adjustments to the freshman seminar series.
 - For more information see [maxwelllevin.com/projects/sortinghat](/projects/sortinghat).
 
 
@@ -70,7 +77,7 @@ A brief recap of my professional experience.
 
 ### Skills 
 
-**Languages**: Java, Javascript, Python, C, HTML, SQL, PHP, R, MySQL
+**Languages**: Python, Javascript, PHP, HTML, SQL, R, C
 
 **Frameworks**: Jekyll, Django, Vue.js, Keras/Tensorflow
 
